@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "btree", "btree\btree.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hashing", "hashing\hashing.vcxproj", "{B601D3D3-3201-440F-A202-2D8C8F0CECA6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "btree_bisearch", "btree_bisearch\btree_bisearch.vcxproj", "{255B53FE-8A69-4094-9D91-7EA02592471A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{B601D3D3-3201-440F-A202-2D8C8F0CECA6}.Release|x64.Build.0 = Release|x64
 		{B601D3D3-3201-440F-A202-2D8C8F0CECA6}.Release|x86.ActiveCfg = Release|Win32
 		{B601D3D3-3201-440F-A202-2D8C8F0CECA6}.Release|x86.Build.0 = Release|Win32
+		{255B53FE-8A69-4094-9D91-7EA02592471A}.Debug|x64.ActiveCfg = Debug|x64
+		{255B53FE-8A69-4094-9D91-7EA02592471A}.Debug|x64.Build.0 = Debug|x64
+		{255B53FE-8A69-4094-9D91-7EA02592471A}.Debug|x86.ActiveCfg = Debug|Win32
+		{255B53FE-8A69-4094-9D91-7EA02592471A}.Debug|x86.Build.0 = Debug|Win32
+		{255B53FE-8A69-4094-9D91-7EA02592471A}.Release|x64.ActiveCfg = Release|x64
+		{255B53FE-8A69-4094-9D91-7EA02592471A}.Release|x64.Build.0 = Release|x64
+		{255B53FE-8A69-4094-9D91-7EA02592471A}.Release|x86.ActiveCfg = Release|Win32
+		{255B53FE-8A69-4094-9D91-7EA02592471A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
